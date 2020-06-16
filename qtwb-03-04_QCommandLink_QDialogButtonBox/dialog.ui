@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Dialog</class>
+ <widget class="QDialog" name="Dialog">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>604</width>
+    <height>380</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QCommandLinkButton" name="commandLinkButton">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>20</y>
+     <width>571</width>
+     <height>61</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Option 1</string>
+   </property>
+   <property name="description">
+    <string>This is option 1</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="lblSelected">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>266</y>
+     <width>571</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>TextLabel</string>
+   </property>
+  </widget>
+  <widget class="QDialogButtonBox" name="buttonBox">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>340</y>
+     <width>581</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="standardButtons">
+    <set>QDialogButtonBox::Cancel|QDialogButtonBox::Help|QDialogButtonBox::Ok</set>
+   </property>
+  </widget>
+  <widget class="QCommandLinkButton" name="commandLinkButton_2">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>80</y>
+     <width>571</width>
+     <height>61</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Option 2</string>
+   </property>
+   <property name="description">
+    <string>This is option 2</string>
+   </property>
+  </widget>
+  <widget class="QCommandLinkButton" name="commandLinkButton_3">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>140</y>
+     <width>571</width>
+     <height>61</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Option 3</string>
+   </property>
+   <property name="description">
+    <string>This is option 3</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
