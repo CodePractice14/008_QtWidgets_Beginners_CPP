@@ -1,0 +1,58 @@
+<RCC>
+    <qresource prefix="/new/special">
+        <file>resources/icons3/cog.png</file>
+        <file>resources/icons3/coins.png</file>
+        <file>resources/icons3/coins_add.png</file>
+        <file>resources/icons3/coins_delete.png</file>
+        <file>resources/icons3/color_swatch.png</file>
+        <file>resources/icons3/color_wheel.png</file>
+        <file>resources/icons3/comment.png</file>
+        <file>resources/icons3/comment_add.png</file>
+        <file>resources/icons3/comment_delete.png</file>
+        <file>resources/icons3/comment_edit.png</file>
+        <file>resources/icons3/comments.png</file>
+        <file>resources/icons3/comments_add.png</file>
+        <file>resources/icons3/comments_delete.png</file>
+        <file>resources/icons3/compress.png</file>
+        <file>resources/icons3/computer.png</file>
+        <file>resources/icons3/computer_add.png</file>
+        <file>resources/icons3/computer_delete.png</file>
+        <file>resources/icons3/computer_edit.png</file>
+        <file>resources/icons3/computer_error.png</file>
+        <file>resources/icons3/computer_go.png</file>
+        <file>resources/icons3/computer_key.png</file>
+        <file>resources/icons3/computer_link.png</file>
+        <file>resources/icons3/connect.png</file>
+        <file>resources/icons3/contrast_decrease.png</file>
+    </qresource>
+    <qresource prefix="/res">
+        <file>resources/icons1/accept.png</file>
+        <file>resources/icons1/add.png</file>
+        <file>resources/icons1/anchor.png</file>
+        <file>resources/icons1/application_add.png</file>
+        <file>resources/icons1/application_cascade.png</file>
+        <file>resources/icons1/application_delete.png</file>
+        <file>resources/icons1/application_double.png</file>
+        <file>resources/icons1/application_edit.png</file>
+        <file>resources/icons1/application_error.png</file>
+        <file>resources/icons1/application_form.png</file>
+        <file>resources/icons1/application_form_add.png</file>
+        <file>resources/icons1/application_form_delete.png</file>
+        <file>resources/icons1/application_form_edit.png</file>
+        <file>resources/icons1/application_form_magnify.png</file>
+        <file>resources/icons1/application_get.png</file>
+        <file>resources/icons1/application_go.png</file>
+        <file>resources/icons1/application_home.png</file>
+        <file>resources/icons1/application_key.png</file>
+        <file>resources/icons1/application_lightning.png</file>
+        <file>resources/icons1/application_link.png</file>
+        <file>resources/icons1/application_osx.png</file>
+        <file>resources/icons1/application_osx_terminal.png</file>
+        <file>resources/icons1/application_put.png</file>
+        <file>resources/icons1/application_side_boxes.png</file>
+    </qresource>
+    <qresource prefix="/test">
+        <file>resources/icons1/accept.png</file>
+        <file>resources/icons1/add.png</file>
+    </qresource>
+</RCC>

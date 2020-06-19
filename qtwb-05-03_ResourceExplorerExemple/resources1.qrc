@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>resources/icons2/drink.png</file>
+        <file>resources/icons2/drink_empty.png</file>
+        <file>resources/icons2/drive.png</file>
+        <file>resources/icons2/drive_add.png</file>
+        <file>resources/icons2/drive_burn.png</file>
+        <file>resources/icons2/drive_cd.png</file>
+        <file>resources/icons2/drive_cd_empty.png</file>
+        <file>resources/icons2/drive_delete.png</file>
+        <file>resources/icons2/drive_disk.png</file>
+        <file>resources/icons2/drive_edit.png</file>
+        <file>resources/icons2/drive_error.png</file>
+        <file>resources/icons2/drive_go.png</file>
+        <file>resources/icons2/drive_key.png</file>
+        <file>resources/icons2/drive_link.png</file>
+        <file>resources/icons2/drive_magnify.png</file>
+        <file>resources/icons2/drive_network.png</file>
+        <file>resources/icons2/drive_rename.png</file>
+        <file>resources/icons2/drive_user.png</file>
+        <file>resources/icons2/drive_web.png</file>
+        <file>resources/icons2/dvd_add.png</file>
+        <file>resources/icons2/dvd_delete.png</file>
+        <file>resources/icons2/dvd_edit.png</file>
+        <file>resources/icons2/dvd_error.png</file>
+        <file>resources/icons2/dvd_go.png</file>
+    </qresource>
+    <qresource prefix="/test">
+        <file>resources/icons1/accept.png</file>
+    </qresource>
+</RCC>
